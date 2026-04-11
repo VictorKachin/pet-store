@@ -19,7 +19,7 @@
   }
 
   &:active {
-    color: orangered;
+    color: var(--efbd68);
     text-decoration: none;
   }
 }
